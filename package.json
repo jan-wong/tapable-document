@@ -1,0 +1,27 @@
+{
+  "name": "tapable-document",
+  "version": "1.0.0",
+  "description": "tapable document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-wong/tapable-document.git"
+  },
+  "keywords": [
+    "tapable",
+    "document",
+    "webpack"
+  ],
+  "author": "Jan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-wong/tapable-document/issues"
+  },
+  "homepage": "https://github.com/jan-wong/tapable-document#readme",
+  "dependencies": {
+    "tapable": "^1.1.3"
+  }
+}
