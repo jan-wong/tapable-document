@@ -1,3 +1,6 @@
+/**
+ * 基本的同步sync事件钩子：按照注册事件的顺序往下执行
+ */
 const { SyncHook } = require('tapable')
 
 class Work {
